@@ -5,7 +5,7 @@
   "website": "",
   "model": "gelya.tflite",
   "trained_languages": [
-    "en"
+    "ru"
   ],
   "version": 2,
   "micro": {
