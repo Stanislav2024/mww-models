@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "\u0413\u0435\u043b\u044f",
   "author": "",
-  "website": "",
+  "website": "https://github.com/Stanislav2024/mww-models/edit/main/gelya.json",
   "model": "gelya.tflite",
   "trained_languages": [
     "en"
