@@ -2,6 +2,7 @@
   "type": "micro",
   "wake_word": "\u0413\u0435\u043b\u044f",
   "author": "",
+  "website": "",
   "model": "gelya.tflite",
   "trained_languages": [
     "en"
