@@ -2,10 +2,9 @@
   "type": "micro",
   "wake_word": "\u0413\u0435\u043b\u044f",
   "author": "Stanislav",
-  "website": "",
   "model": "gelya.tflite",
   "trained_languages": [
-    "en"
+    "ru"
   ],
   "version": 2,
   "micro": {
